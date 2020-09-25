@@ -1,6 +1,6 @@
-# fengmao-vue project
+# Vue Admin project
 
-> A Vue.js project
+> A Vue.js project for admin dashboard using star admin template
 
 ## Build Setup
 
