@@ -27,3 +27,6 @@ npm run e2e
 # run all tests
 npm test
 ```
+
+## Live URL
+https://vue-admin-build.vercel.app/
