@@ -20,7 +20,8 @@
                 </div>
               </form>
             </form>
-            <h5 class="text-center" style="margin-top: 110px; opacity: 0.5">欢迎登陆独立屋商品管理系统</h5>
+            <p class="text-center mt-5">Demo: <span style="opacity: .7">admin / r00tme</span></p>
+            <h5 class="text-center mt-5" style="opacity: 0.5">欢迎登陆独立屋商品管理系统</h5>
           </div>
         </div>
       </div>
