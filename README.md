@@ -1,6 +1,6 @@
 # Vue Admin project
 
-> A Vue.js project for admin dashboard using star admin template
+> A Vue.js project for admin dashboard using star admin template.
 
 ## Build Setup
 
